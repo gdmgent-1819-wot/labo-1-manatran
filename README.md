@@ -18,7 +18,7 @@ Uitbreiding: Maak de tekst (string) en de snelheid van de loop instelbaar via CL
 ### Mario Jumps
 _Naam bestand: mario.py_
 
-Visualiseer Mario, die kan springen, op de Matrix van de SenseHat. Gebruik de ingebouwde joystick (Koppelingen naar een externe site.)Koppelingen naar een externe site. op de SenseHat om Mario te doen springen.
+Visualiseer Mario, die kan springen, op de Matrix van de SenseHat. Gebruik de ingebouwde joystick op de SenseHat om Mario te doen springen.
 
 
 ### Pixelator
