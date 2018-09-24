@@ -37,7 +37,6 @@ Maak een Python applicatie waarmee je random "Arcade Characters" (8x8) genereert
 Uitbreiding: Maak de grote en kleur van het character en de snelheid van de loop instelbaar via CLI.
 
 
-                                                                                                                                                                                                                                           Rolling Dice
 ### Rolling Dice
 _Naam bestand: rollingdice.py_
 
